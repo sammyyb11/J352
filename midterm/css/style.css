@@ -1,0 +1,45 @@
+body{
+	
+	font-family: 'IBM Plex Serif', serif;
+	margin:5%;
+}
+h1, h2, h4, h5, h6{
+	margin:5%;
+	
+    font-family: 'IBM Plex Serif', serif;
+}
+
+td, th{
+	background-color:#850B1B;
+	color:white;
+
+}
+table{
+	padding: 10%;
+}
+.tablehead{
+	margin: 5%;
+
+}
+
+.caption{
+	text-align:right;
+	font-style:italic;
+}
+img{
+	padding: 5%;
+}
+h3{
+font-family: 'IBM Plex Serif', serif;
+font-style: italic;
+font-color:#524F50;
+}
+
+
+
+
+.background{
+  background-color:slategray;
+}
+
+
