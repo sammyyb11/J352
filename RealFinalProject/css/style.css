@@ -1,0 +1,23 @@
+body, h4, h2, h3{
+	font-family: 'EB Garamond', serif;
+}
+
+.rightdiv{
+	padding:0% 0% 0% 5%;
+}
+#pullquote{
+	padding:5%;
+}
+.header{
+	background-color:#CAAFEA;
+	
+	text-align:center;
+}
+#footer{
+background-color:#CAAFEA;
+	
+	text-align:center;
+}
+#paragraph1{
+	font-size: 120%;
+}
